@@ -1,0 +1,35 @@
+h3 {
+  color: aliceblue;
+  font-family: sans-serif;
+  font-size: 50px;
+
+}
+
+
+body{
+  background-color: lightsteelblue;
+  font-family: sans-serif;
+  color: grey;
+  margin-top: 65px;
+  margin-left: 245px;}
+
+
+#item-name{
+  box-shadow: 2px 2px 2px steelblue;
+}
+
+#item-price{
+  box-shadow: 2px 2px 2px steelblue;
+}
+
+button {
+  box-shadow: 2px 2px 2px steelblue;
+}
+
+{
+  font-family: sans-serif;
+}
+
+ul {
+  margin-left: 194px;
+}
